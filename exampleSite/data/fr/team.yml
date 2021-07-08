@@ -1,0 +1,37 @@
+############################### team ############################
+team:
+  enable : true
+  title : Projets Réalisés
+  team_member :
+    # team member loop
+    - name : Web Scraping.
+      image : images/team/big-data.png
+      designation : Python, Selenium, Pandas, Numpy.
+      content : Extraire des données depuis un site web d'immobilier et calculer la somme des prix des appartements pour chaque propriétaire.
+      social :
+        - icon : ti-github # themify icon pack : https://themify.me/themify-icons
+          link : "https://github.com/sElbourhichi/WebScraping"
+     
+        
+    # team member loop
+    - name : Prédiction d'achat.
+      image : images/team/team-22.jpg
+      designation : Machine Learning, Classification, Python, Sickit-learn.
+      content : Analyser un ensemble de données issues d'un site e-commerce pour prévoir si un client va effectuer un achat ou pas.
+      social :
+        - icon : ti-github # themify icon pack : https://themify.me/themify-icons
+          link : "https://github.com/sElbourhichi/PredictCustomerPurchase"
+
+        
+    # team member loop
+    - name : Prédiction Covid-19
+      
+      image : images/team/team-33.jpg
+      designation : Machine Learning, Régression Linéaire.
+      content : Prédiction des cas contaminés.
+      social : 
+        - icon : ti-github # themify icon pack : https://themify.me/themify-icons
+          link : "https://github.com/sElbourhichi/Covid19_Prediction"
+    
+        
+    

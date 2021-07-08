@@ -1,0 +1,11 @@
+############################# call to action ##############################
+cta:
+  enable : true
+  bg_image : "images/backgrounds/bg-white-wall.jpg"
+  bg_image_webp : "images/backgrounds/bg-white-wall.webp"
+  title : "Pour plus d'information, veuillez consulter mon Curriculum Vitae"
+  content : ""
+  button:
+    enable : true
+    label : "Mon Curriculum Vitae"
+    link : "/images/backgrounds/norme.pdf"

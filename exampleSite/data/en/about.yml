@@ -1,0 +1,15 @@
+############################# About ###################################
+about:
+  enable : true
+  title : About Me
+  about_item :
+  - icon : ti-back-right # themify icon pack : https://themify.me/themify-icons
+    title : I am Flexible
+    content : With flexibility and adaptation, I accept the unexpected even if things happen differently than what I was planned.
+  - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
+    title : I am Precise
+    content : Once my decision is made, I stay focused on the goal and do all my best until it is achieved.
+
+  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
+    title : I am Checker
+    content : I like facts and I always look for proof of what is being said. I take my time and check before I approve.

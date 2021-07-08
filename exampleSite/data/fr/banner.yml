@@ -1,0 +1,13 @@
+############################### Banner ################################
+banner:
+  enable : true
+  bg_image_webp : "images/backgrounds/her-area.webp"
+  bg_image : "images/backgrounds/helo.jpg"
+  icon : "" # themify icon pack : https://themify.me/themify-icons
+#  title : "Experience the new reality"
+  title : "Ingénieur données & BI"
+  content : "Je suis Salah, je suis passionné par le domaine de la data. Je maitrise bien la chaine BI ( data warehousing & data mining )."
+  button:
+    enable : true
+    label : "A propos"
+    link : "#about"

@@ -1,0 +1,24 @@
+############################## Contact #############################
+############################## Contact #############################
+contact:
+  enable : true
+  title : Contact Me
+  subtitle : 
+  content :
+
+  # Contact details
+  contact_list:
+    - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
+      info : "Casablanca, Morocco"
+      
+    - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
+      info : "Phone: +212772614231"
+      
+    - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
+      info : "Phone: +212689510267"
+      
+    - icon : ti-email # themify icon pack : https://themify.me/themify-icons
+      info : "Email: salahbrhichi@gmail.com"
+
+
+ 

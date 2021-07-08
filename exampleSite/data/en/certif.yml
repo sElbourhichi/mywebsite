@@ -1,0 +1,47 @@
+############################### team ############################
+certif:
+  enable : true
+  title : Obtained Certificates 
+  team_member :
+    # team member loop
+    - name : Foundations Data, Data, Everywhere.
+      image : images/team/test.jpeg
+      designation : 
+      content : 
+      social :
+        - icon : ti-layout-slider-alt # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.coursera.org/account/accomplishments/certificate/MBDAWS9383VU"
+     
+        
+    # team member loop
+    - name : Hadoop Platform and Application Framework.
+      image : images/team/test1.png
+      designation : 
+      content : 
+      social :
+        - icon : ti-layout-slider-alt # themify icon pack : https://themify.me/themify-icons
+          link : "https://github.com/sElbourhichi/PredictCustomerPurchase"
+
+        
+    # team member loop
+    - name : Machine Learning
+      
+      image : images/team/test2.jpg
+      designation : 
+      content : 
+      social : 
+        - icon :  ti-layout-slider-alt # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.coursera.org/account/accomplishments/certificate/QCQX3H8JXQCM"
+    
+    # team member loop
+    - name : Scrum Foundation
+      
+      image : images/team/scrum.png
+      designation : 
+      content : 
+      social : 
+        - icon :  ti-layout-slider-alt # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.credly.com/badges/fb0f1d8b-8c63-4cdb-8cff-f50be410e0a6?source=linked_in_profile"
+    
+        
+    

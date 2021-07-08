@@ -1,0 +1,39 @@
+############################# feature ###################################
+feature:
+  enable : true
+  image : images/about/photosit.jpg
+  image_webp : images/about/about-businessan.webp
+  title : Je suis Elbourhichi Salah.
+  content : "J'ai 23 ans, Data & Business Intelligence Engineer. Diplomé Ingénieur d'Etat de l’Institut National de Statistique et d’Economie Appliquée. Je suis passionné par l’Intelligence a+Artificielle, la Data Science, la Business Intelligence. Mon histoire avec la Data a commencé en 2019, depuis, j’essaie d’améliorer mes compétences pour aider la communauté."
+  feature_item : 
+      # feature item loop
+    - title : Machine learning.
+      icon : ti-reddit # themify icon pack : https://themify.me/themify-icons
+      content : Je suis capable de comprendre et d'analyser les données pour choisir le type d'apprentissage, est-ce qu'il s'agit d'un apprentissage supervisé, non supervisé, semi-supervisé ou par renforcement. Après définir les modèles candidats et enfin choisir le modèle le plus pertinent selon les résultats de l'évaluation. 
+      
+      # feature item loop
+    - title : Programmation.
+      icon : ti-panel # themify icon pack : https://themify.me/themify-icons
+      content : Je maîtrise le langage Python avec ses libraries orientées Data et destinées au Machine Learning à savoir Sickit Learn, Pandas, Numpy, Matplotlib, Selenium. Je maîtrise aussi les langages SQL, PL/SQL, Java. En plus, j'ai des bases solides en HTML, CSS, JavaScript. Cela me permet de scraper les données. 
+
+      # feature item loop
+    - title : Data Visualisation.
+      icon : ti-bar-chart-alt # themify icon pack : https://themify.me/themify-icons
+      content : J'avais l'occasion de travailler des mini-projets en utilisants PowerBi, Qlick Sense, Tableau et SAP Analytics Cloud. Ceux-ci permettent de représenter les données pour découvrir les faits qu'elles cachent. les outils de visualisation permettent aussi de donner aux stackholders une meilleure vue de leur entreprise en analysant les indicateurs clés de performance selon différents axes. 
+      
+      # feature item loop
+    - title : Business Intelligence.
+      icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
+      content : Je suis passioné par les étapes de la BI. En commençant par la collecte de données depuis les différents source et, si nécessaire, collecter la data depuis des sites web en utilisant la technique du web scraping. Puis alimenter ces données dans un datawarehouse passant par l'étape Extraction, Transformation, Loading (ETL). Ensuite, créer des datamarts et des cubes OLAP servant à l'analyse multidimensionnelle. 
+        # feature item loop
+    - title : Big Data.
+      icon : ti-layout-menu-v # themify icon pack : https://themify.me/themify-icons
+      content : Je maîtrise l'ecosystème Hadoop (Hadoop, Hive, Pig, Hbase, Sqoop, Flume, Spark, Kafka, Shark, Oozie, etc). Avec l'explosion quantitative des données numériques, il est primordiale de travailler avec les outils de big data pour capturer, rechercher, stocker, analyser et présenter les données.
+       # feature item loop
+    - title : Maths et statistique.
+      icon : ti-briefcase # themify icon pack : https://themify.me/themify-icons
+      content : Je suis capable d'effectuer une analyse exploratoire des données et identifier les modèles et relations importants. je suis capable aussi d'appliquer une réflexion statistique rigoureuse pour extraire le signal du bruit; -Comprendre les forces et les limites des différents modèles de tests et pourquoi ils correspondent à un problème donné.
+       # feature item loop
+    - title : Management et gestion de projet.
+      icon : ti-agenda # themify icon pack : https://themify.me/themify-icons
+      content : En plus de la méthodologie classique de geston de projet, je maîtrise la méthode Agile.
